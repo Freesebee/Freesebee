@@ -1,7 +1,6 @@
 # Hi there, I'm FreeseBee :honeybee:
 
-#![github](https://github.com/Freesebee/Freesebee/blob/main/ITCAT.png)
-<!--
+<!--![github](https://github.com/Freesebee/Freesebee/blob/main/ITCAT.png)
 **Freesebee/Freesebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
