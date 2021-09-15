@@ -1,4 +1,5 @@
-<img src="https://github.com/Freesebee/Freesebee/blob/main/Github.png" width="70%" height="70%">
+Hi, I'm FreeseBee!
+<!--<img src="https://github.com/Freesebee/Freesebee/blob/main/Github.png" width="70%" height="70%">
 <!--**Freesebee/Freesebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
