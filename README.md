@@ -16,7 +16,7 @@
 
 ## 💼 Worked with:
   
-  [![Worked with](https://skillicons.dev/icons?i=reactivex,postgres,mysql,docker,bootstrap,unity,blender,visualstudio,vscode,&theme=light)](https://skillicons.dev)
+  [![Worked with](https://skillicons.dev/icons?i=reactivex,postgres,mysql,docker,bootstrap,unity,blender,visualstudio,vscode,js,c,idea,linux&theme=light)](https://skillicons.dev)
 
 ## 💩 Regrets:
   
